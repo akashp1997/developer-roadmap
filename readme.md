@@ -16,23 +16,23 @@
 ## 🎨 Frontend Roadmap
 
 Learn HTML
-- [x]
-- [x]
-- [ ]
-- [x]
+- [x] 1.
+- [x] 2.
+- [ ] 3.
+- [x] 4.
 
 Learn CSS
-- [x]
-- [x]
-- [x]
-- [ ]
+- [x] 1.
+- [x] 2.
+- [x] 3.
+- [ ] 4.
 
 Learn JavaScript
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] 1.
+- [ ] 2.
+- [ ] 3.
+- [ ] 4.
+- [ ] 5.
 
 - [ ] Learn jQuery
 
