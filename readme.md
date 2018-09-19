@@ -34,7 +34,7 @@ Learn JavaScript
 - [ ]
 - [ ]
 
-4. [ ] Learn jQuery
+- [ ] Learn jQuery
 
 
 ![](./images/frontend-v2.png)
