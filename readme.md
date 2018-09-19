@@ -15,26 +15,26 @@
 
 ## 🎨 Frontend Roadmap
 
-Learn HTML
+1. Learn HTML
 - [x] 1.
 - [x] 2.
 - [ ] 3.
 - [x] 4.
 
-Learn CSS
+2. Learn CSS
 - [x] 1.
 - [x] 2.
 - [x] 3.
 - [ ] 4.
 
-Learn JavaScript
+3. Learn JavaScript
 - [ ] 1.
 - [ ] 2.
 - [ ] 3.
 - [ ] 4.
 - [ ] 5.
 
-- [ ] Learn jQuery
+4. [ ] Learn jQuery
 
 
 ![](./images/frontend-v2.png)
