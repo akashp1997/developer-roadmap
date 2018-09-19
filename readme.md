@@ -15,19 +15,19 @@
 
 ## 🎨 Frontend Roadmap
 
-1. Learn HTML
+Learn HTML
 - [x]
 - [x]
 - [ ]
 - [x]
 
-2. Learn CSS
+Learn CSS
 - [x]
 - [x]
 - [x]
 - [ ]
 
-3. Learn JavaScript
+Learn JavaScript
 - [ ]
 - [ ]
 - [ ]
