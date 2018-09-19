@@ -16,24 +16,24 @@
 ## 🎨 Frontend Roadmap
 
 1. Learn HTML
-- [x] 1
-- [x] 2
-- [x] 3
-- [x] 4
+- [x] Learn the basics and how to write semantic HTML
+- [x] Dividing page into sections and how to structure the DOM properly
+- [x] Make at least 5 HTML pages - focus on structure
+- [x] Don't worry about making them pretty yet
 
 2. Learn CSS
-- [x] 1
-- [x] 2
-- [x] 3
-- [x] 4
+- [x] Learn the basics of CSS
+- [x] Learn how to use Grid and Flexbox
+- [x] Media Queries and Responsive Websites
+- [x] Style the HTML Pages that you made in the last step
 
 3. Learn JavaScript
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6 Learn jQuery
+- [ ] Learn the syntax and basic constructs
+- [ ] Learn how to manipulate DOM
+- [ ] Understand the concepts such as hoistinh, event bubbling, prototype, etc
+- [ ] Learn Ajax (XHR)
+- [ ] Learn ES6+ new features and writing modular JavaScript
+- [ ] Learn jQuery
 
 4. [ ] Make Websites
 
@@ -74,7 +74,7 @@
 
 18. [ ] Static Type Checkers (TypeScript)
 
-19. [ ]Server Side Rendering (Next.js)
+19. [ ] Server Side Rendering (Next.js)
 
 
 ![](./images/frontend-v2.png)
