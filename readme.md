@@ -28,11 +28,11 @@
 - [x] Style the HTML Pages that you made in the last step
 
 3. Learn JavaScript
-- [ ] Learn the syntax and basic constructs
-- [ ] Learn how to manipulate DOM
-- [ ] Understand the concepts such as hoistinh, event bubbling, prototype, etc
-- [ ] Learn Ajax (XHR)
-- [ ] Learn ES6+ new features and writing modular JavaScript
+- [x] Learn the syntax and basic constructs
+- [x] Learn how to manipulate DOM
+- [x] Understand the concepts such as hoisting, event bubbling, prototype, etc
+- [x] Learn Ajax (XHR)
+- [x] Learn ES6+ new features and writing modular JavaScript
 - [ ] Learn jQuery
 
 4. [ ] Make Websites
